@@ -1,0 +1,11 @@
+id,Gaze_behaviour,Facial_expression,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Arousal,Valence,Dominance
+24,Follow,Fear,2,1,0,0,1,3,1,3,8,8,8
+24,Avert,Fear,3,4,3,3,3,2,2,3,4,5,9
+24,Avert,Anger,3,3,1,1,2,2,2,1,3,4,6
+24,Follow,Sad,3,3,3,2,3,3,3,3,3,3,6
+24,Follow,Anger,2,3,2,1,2,3,2,1,3,2,7
+24,Avert,Sad,4,4,3,1,1,3,3,3,1,1,8
+24,Avert,Joy,4,0,3,3,3,2,3,0,8,2,9
+24,Follow,Surprise,4,2,2,0,3,2,3,4,3,2,7
+24,Follow,Joy,4,0,2,1,3,2,2,0,7,3,7
+24,Avert,Surprise,3,3,1,1,1,3,3,0,4,5,6
